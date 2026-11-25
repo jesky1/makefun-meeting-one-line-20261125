@@ -1,0 +1,1 @@
+{"description":"The single sentence that could have replaced an entire pointless meeting — a make.fun entry.","license":"MIT","main":"main.ts","name":"makefun-meeting-one-line","scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
